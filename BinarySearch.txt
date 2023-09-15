@@ -1,0 +1,9 @@
+Int A[] = new int [10,11,12,13,14,15]
+n = int USERINPUT
+mid = lowerbound + (upperbound - lowerbound)*1/2
+found = false
+WHILE found = false
+if (n = mid)
+	Console.Writeline(n + " is found")
+else if (n > A.mid)
+	
