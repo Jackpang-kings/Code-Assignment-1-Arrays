@@ -1,9 +1,26 @@
-Int A[] = new int [10,11,12,13,14,15]
-n = int USERINPUT
-mid = lowerbound + (upperbound - lowerbound)*1/2
-found = false
-WHILE found = false
-if (n = mid)
-	Console.Writeline(n + " is found")
-else if (n > A.mid)
-	
+Assign an array with 10 numbers
+Ask user to input the number to search(in this case "8")
+divide the length of array into half
+check if the middle number is equals to 8
+if yes, end for loop and found 8 in middle of the array
+if not, check if the middle number is larger or smaller than 8
+if smaller, move left
+if larger, move right
+
+Assign arr = {1,2,3,4,5,6,7,8,9}
+Assign first = 0
+Assign last = arr.length - 1
+Assign mid = first + last /2
+while ( first smaller or equals to last)
+	if mid equals to 8
+		PRINT"Found"
+		PRINT arr.mid
+		return mid
+	else if mid larger than 8
+		first = mid + 1
+	else 
+		last = mid - 1
+	END if 
+	return -1
+END while
+
