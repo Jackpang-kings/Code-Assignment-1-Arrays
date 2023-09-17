@@ -12,6 +12,8 @@ static void Main()
     {
         array[i] = Convert.ToInt32(Console.ReadLine());
     }
+    Bubblesort(array, n);
+    Console.WriteLine("The numbers are sorted");
     for (int i = 0; i < n ; i++)
     {
         Console.Write("|" + array[i]);
@@ -39,12 +41,12 @@ static int BinarySearch(int[] array,int searchn)
     int last = array.Length - 1;
     while (first <= last)
     {
-        int mid = first + last/2;
-        if (array[mid] == searchn)
+        int mid = (first + last)/2;
+        if (searchn == array[mid])
         {
             return mid;
         }
-        else if (array[mid] < searchn)
+        else if (searchn > array[mid])
         {
             first = mid + 1;
         }
@@ -55,6 +57,36 @@ static int BinarySearch(int[] array,int searchn)
     }
     return -1;
 }
+
+static void Bubblesort(int[] array,int n)
+{
+    int temp = 0;
+    int counter = 0;
+    int swaps = 0;
+    bool swapped = false;
+    while (swapped == false)
+    {
+        while (counter < n - 1)
+        {
+            if (array[counter] > array[counter+1])
+            {
+                temp = array[counter];
+                array[counter] = array[counter+1];
+                array[counter+1] = temp;
+                swaps++;
+            }
+            counter = counter + 1;
+        }
+        if (swaps == 0)
+        {
+            swapped = true;
+        }
+        else 
+        {
+            counter = 0;
+            swaps = 0;
+        }
+    }
+}
 }
 } 
-
