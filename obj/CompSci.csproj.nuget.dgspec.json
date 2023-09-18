@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj": {}
+    "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj": {
+    "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj",
+        "projectUniqueName": "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj",
         "projectName": "CompSci",
-        "projectPath": "C:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj",
+        "projectPath": "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj",
         "packagesPath": "C:\\Users\\jpang18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpang18\\Documents\\CompSci\\obj\\",
+        "outputPath": "C:\\Users\\jpang18\\My Documents\\compsci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpang18\\AppData\\Roaming\\NuGet\\NuGet.Config"

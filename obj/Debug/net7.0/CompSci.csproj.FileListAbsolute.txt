@@ -19,3 +19,10 @@ C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\CompSci.csproj.CoreCompil
 C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\CompSci.dll
 C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\refint\CompSci.dll
 C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\CompSci.pdb
+C:\Users\jpang18\My Documents\compsci\bin\Debug\net7.0\CompSci.exe
+C:\Users\jpang18\My Documents\compsci\bin\Debug\net7.0\CompSci.deps.json
+C:\Users\jpang18\My Documents\compsci\bin\Debug\net7.0\CompSci.runtimeconfig.json
+C:\Users\jpang18\My Documents\compsci\bin\Debug\net7.0\CompSci.dll
+C:\Users\jpang18\My Documents\compsci\bin\Debug\net7.0\CompSci.pdb
+C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\CompSci.genruntimeconfig.cache
+C:\Users\jpang18\My Documents\compsci\obj\Debug\net7.0\ref\CompSci.dll

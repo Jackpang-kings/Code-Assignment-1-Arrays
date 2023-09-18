@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj",
+      "projectUniqueName": "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj",
       "projectName": "CompSci",
-      "projectPath": "c:\\Users\\jpang18\\Documents\\CompSci\\CompSci.csproj",
+      "projectPath": "C:\\Users\\jpang18\\My Documents\\compsci\\CompSci.csproj",
       "packagesPath": "C:\\Users\\jpang18\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jpang18\\Documents\\CompSci\\obj\\",
+      "outputPath": "C:\\Users\\jpang18\\My Documents\\compsci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jpang18\\AppData\\Roaming\\NuGet\\NuGet.Config"
